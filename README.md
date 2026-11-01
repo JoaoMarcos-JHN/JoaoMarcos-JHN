@@ -26,3 +26,4 @@ Suporte de Helpdesk na Rework e estudante de Análise e Desenvolvimento de Siste
 - Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas
 - Preparando o Encontrei para Você para o primeiro deploy
 - Desenvolvendo uma aplicação para barbearias, com sistema de agendamento online de clientes. 
+- Desenvolvendo uma aplicação para uma hamburgueria, com painel admin e dashboard.
