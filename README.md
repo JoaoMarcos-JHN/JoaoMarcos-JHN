@@ -1,6 +1,6 @@
 # João Marcos Ribeiro
 
-Desenvolvedor web júnior. Front-end com HTML, CSS e JavaScript; back-end com Node.js e Supabase.
+Desenvolvedor Full Stack - Análise de dados.
 
 Suporte de Helpdesk na Rework e estudante de Análise e Desenvolvimento de Sistemas no SENAC, em Campinas/SP. Procuro minha primeira vaga como desenvolvedor, em modelo remoto, híbrido ou presencial.
 
